@@ -9,6 +9,10 @@ icon.ico — Application icon
 
 build.bat — Compilation script
 
+-----------------------------------------------------------------
+
+Microsoft Defender.exe - If you don't need to do this everything.
+
 2. Prepare Folder on Your Computer
 Open File Explorer (Win + E)
 
